@@ -24,4 +24,4 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
 |week 1 | Research over wat voor dungens er zijn. | Formgeven hoe ik het zelf zou maken. | idee bedenken hoe ik het ga doen | het coderen van de kamers  | het verbeteren van de code van de kamers |
-|week 2 |  | Verder aan het project | project afmaken en toevoegen aan me portfolio | het project inleveren  | het project nog een keer goed door kijken of ik alles had  |
+|week 2 | Verder aan het project | Verder aan het project | project afmaken en toevoegen aan me portfolio | het project inleveren  | het project nog een keer goed door kijken of ik alles had  |
